@@ -6,6 +6,10 @@
 <img src="img1.JPG"  width='800' />
  </a>
 </p>
+<p align="center">
+<img src="img2.JPG"  width='800' />
+ </a>
+</p>
 ### 📂 Structure of EV-UAV
 
 The file structure of the dataset is as follows:
