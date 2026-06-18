@@ -1,4 +1,4 @@
-# Motion-Consistency-BasedAsynchronousUAV Detection and Tracking with event camera
+# Motion-Consistency-Based Asynchronous UAV Detection and Tracking with event camera
 ## ES-UAV DATASET
 ---
 
