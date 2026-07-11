@@ -3,14 +3,9 @@
 <img src="fengmian.png"  width='800' />
  </a>
 </p>
-Overview
+## Overview
 <p align="center">
 <img src="fig5.JPG"  width='800' />
- </a>
-</p>
-Blob-track VS Target-track
-<p align="center">
-<img src="79.jpg"  width='400' />
  </a>
 </p>
 ## ES-UAV DATASET
