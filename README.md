@@ -5,7 +5,7 @@
 </p>
 Overview
 <p align="center">
-<img src="fig5.png"  width='800' />
+<img src="fig5.JPG"  width='800' />
  </a>
 </p>
 Blob-track VS Target-track
