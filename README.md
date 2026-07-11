@@ -44,5 +44,18 @@ x    y   polarity  timestamp   label id
 link(video): https://pan.baidu.com/s/16Tzi_2ExpGMcvgelTUxPdQ?pwd=jf4p  
 link(event): https://pan.baidu.com/s/18izbbPXYTzeJUI8kpe5o9Q?pwd=mn79
 ---
-### cite
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+## Citation
+
+If you use this work in your research, please cite it:
+
+```bibtex
+@misc{chen2025eventbasedtinyobjectdetection,
+      title={Event-based Tiny Object Detection: A Benchmark Dataset and Baseline}, 
+      author={Nuo Chen and Chao Xiao and Yimian Dai and Shiman He and Miao Li and Wei An},
+      year={2025},
+      eprint={2506.23575},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.23575}, 
+}
+```
