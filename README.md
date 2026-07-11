@@ -5,12 +5,12 @@
 </p>
 Overview
 <p align="center">
-<img src="fig5.png"  width='200' />
+<img src="fig5.png"  width='800' />
  </a>
 </p>
 Blob-track VS Target-track
 <p align="center">
-<img src="79.jpg"  width='800' />
+<img src="79.jpg"  width='400' />
  </a>
 </p>
 ## ES-UAV DATASET
@@ -20,7 +20,7 @@ Blob-track VS Target-track
  </a>
 </p>
 <p align="center">
-<img src="3.JPG"  width='800' />
+<img src="3.jpg"  width='800' />
  </a>
 </p>
 ### 📂 Structure of EV-UAV
