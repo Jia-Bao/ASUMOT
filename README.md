@@ -55,14 +55,14 @@ https://pan.baidu.com/s/18izbbPXYTzeJUI8kpe5o9Q?pwd=mn79
 If you use this work in your research, please cite it:
 
 ```bibtex
-@misc{chen2025eventbasedtinyobjectdetection,
-      title={Event-based Tiny Object Detection: A Benchmark Dataset and Baseline}, 
-      author={Nuo Chen and Chao Xiao and Yimian Dai and Shiman He and Miao Li and Wei An},
-      year={2025},
-      eprint={2506.23575},
+@misc{jia2026asumotmotionconsistencybasedasynchronousuav,
+      title={ASUMOT: Motion-Consistency-Based Asynchronous UAV Detection and Tracking with Event Cameras}, 
+      author={Baofeng Jia and Xiaoyu Chen and Jingyuan Zhang and Zongze Wu and Haochen li and Jing Han and Lianfa Bai},
+      year={2026},
+      eprint={2607.11303},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2506.23575}, 
+      url={https://arxiv.org/abs/2607.11303}, 
 }
 ```
 ## ACKNOWLEDGMENTS
