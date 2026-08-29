@@ -46,8 +46,8 @@ ES-UAV/
 Example:
 ```
 x    y   polarity  timestamp   label id
-1280 200    123         1        0    0 
-128  720    123        -1        1    5
+1280 200     1        123        0    0 
+128  720    -1        123        1    5
 ```
 
 ## 🔗 Link(Coming soon):
