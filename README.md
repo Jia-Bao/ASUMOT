@@ -14,7 +14,7 @@
  </a>
 </p>
 
-## ES-UAV DATASET
+## ES-UAV Dataset
 ---
 <p align="center">
 <img src="asset/data.JPG"  width='800' />
@@ -29,7 +29,7 @@
   <img src="asset/es-uav.gif" width="380" />
 </p>
 
-## 📂 Structure of ES-UAV
+### 📂 Structure of ES-UAV
 
 The file structure of the dataset is as follows:
 ```
@@ -41,7 +41,7 @@ ES-UAV/
   ...          
 
 ```
-## 📝 Data Format
+### 📝 Data Format
 
 Example:
 ```
