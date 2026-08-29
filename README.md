@@ -19,6 +19,10 @@
 <img src="asset/dataset.jpg"  width='800' />
  </a>
 </p>
+<p align="center">
+  <img src="asset/Fred.gif" width="380" />
+  <img src="asset/es-uav.gif" width="380" />
+</p>
 
 ## 📂 Structure of EV-UAV
 
