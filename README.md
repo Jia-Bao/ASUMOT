@@ -29,7 +29,7 @@
   <img src="asset/es-uav.gif" width="380" />
 </p>
 
-## 📂 Structure of EV-UAV
+## 📂 Structure of ES-UAV
 
 The file structure of the dataset is as follows:
 ```
