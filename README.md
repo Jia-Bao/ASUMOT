@@ -1,5 +1,10 @@
 # ASUMOT: Motion-Consistency-Based Asynchronous UAV Detection and Tracking with event camera
 <p align="center">
+  <a href="https://arxiv.org/abs/2607.11303">
+    <img src="https://img.shields.io/badge/arXiv-2607.11303-b31b1b.svg">
+  </a>
+</p>
+<p align="center">
   <img src="asset/fengmian.png"  width="800" />
 </p>
 
