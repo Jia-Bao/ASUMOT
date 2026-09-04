@@ -25,7 +25,7 @@
  </a>
 </p>
 <p align="center">
-  <img src="asset/Fred.gif" width="380" />
+  <img src="asset/animation_edited.gif" width="380" />
   <img src="asset/es-uav.gif" width="380" />
 </p>
 
