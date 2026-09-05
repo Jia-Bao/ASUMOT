@@ -7,19 +7,7 @@
 <p align="center">
   <img src="asset/fengmian.png"  width="800" />
 </p>
-
-## Overview
-<p align="center">
-<img src="asset/overview.JPG"  width='800' />
- </a>
-</p>
-
 ## ES-UAV Dataset
----
-<p align="center">
-<img src="asset/data.JPG"  width='800' />
- </a>
-</p>
 <p align="center">
 <img src="asset/dataset.jpg"  width='800' />
  </a>
