@@ -13,6 +13,7 @@
 <img src="asset/dataset.JPG"  width='800' />
  </a>
 </p>
+## Asynchronous detection and tracking on FRED([paper].(https://arxiv.org/abs/2506.05163).) and ES-UAV 
 <p align="center">
   <img src="asset/animation_edited.gif" width="380" />
   <img src="asset/es-uav.gif" width="380" />
