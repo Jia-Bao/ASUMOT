@@ -19,11 +19,11 @@
 <p align="center">
   <figure style="display:inline-block;text-align:center;margin:0 10px;">
     <figcaption>Blob to event</figcaption>
-    <img src="asset/pic3.jpg" width="380" />
+    <img src="asset/pic3.jpg" width="300" />
   </figure>
   <figure style="display:inline-block;text-align:center;margin:0 10px;">
     <figcaption>Frame to event</figcaption>
-    <img src="asset/pic2.jpg" width="380" />
+    <img src="asset/pic2.jpg" width="300" />
   </figure>
 </p>
 
