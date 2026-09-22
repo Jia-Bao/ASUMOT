@@ -14,18 +14,18 @@
  </a>
 </p>
 
-### Blob to event Asynchronous annotation tool 
+### Blob to event Asynchronous annotation tool (https://github.com/Jia-Bao/Asynchronous-Event-Annotation-Tool)
 
-<table align="center">
-  <tr>
-    <td align="center">Blob to event</td>
-    <td align="center">Frame to event</td>
-  </tr>
-  <tr>
-    <td><img src="asset/pic3.jpg" width="300" /></td>
-    <td><img src="asset/pic2.jpg" width="300" /></td>
-  </tr>
-</table>
+<p align="center">
+  <figure style="display:inline-block;text-align:center;margin:0 10px;">
+    <figcaption>Blob to event</figcaption>
+    <img src="asset/pic3.jpg" width="380" />
+  </figure>
+  <figure style="display:inline-block;text-align:center;margin:0 10px;">
+    <figcaption>Frame to event</figcaption>
+    <img src="asset/pic2.jpg" width="380" />
+  </figure>
+</p>
 
 ## Asynchronous detection and tracking on [FRED](https://arxiv.org/abs/2506.05163) and ES-UAV 
 <p align="center">
