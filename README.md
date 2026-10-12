@@ -54,7 +54,7 @@ x    y   polarity  timestamp   label id
 128  720    -1        123        1    5
 ```
 
-### 🔗 Dataset Link(Coming soon):
+### 🔗 Dataset Link(event and video):
 https://pan.baidu.com/s/1aP-rn_vw5P0Zy8Z9KEh5pA password: y4bk
 ---
 ## Citation
