@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-## Asynchronous detection and tracking on [FRED](https://arxiv.org/abs/2506.05163) and ES-UAV 
+## Asynchronous detection and tracking on [FRED](https://arxiv.org/abs/2506.05163) and [ES-UAV](https://pan.baidu.com/s/1aP-rn_vw5P0Zy8Z9KEh5pA)
 <p align="center">
   <img src="asset/animation_edited.gif" width="380" />
   <img src="asset/es-uav.gif" width="380" />
